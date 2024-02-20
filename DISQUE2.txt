@@ -1,0 +1,3 @@
+ Hauteur = 5
+Nombre de mines = 4
+Temps de jeu = 140601658.67
